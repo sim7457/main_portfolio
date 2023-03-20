@@ -1,0 +1,14 @@
+.glow {
+    height: 100vh;
+}
+
+body {
+    display: block;
+    overflow-x: hidden;
+    color: #fff;
+}
+.bg_button{
+}
+main {
+    height: 100vh;
+}
